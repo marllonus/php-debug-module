@@ -1,0 +1,58 @@
+Objection
+Date: 13 Dec, 2019, 9:30:09 pm
+Code: 1
+File: D:\soft\openserver\OSPanel\domains\pony-world.eq\index.php
+Line: 10
+Message: meow
+Trace: 
+#0 {main}
+
+
+Objection
+Date: 18 Dec, 2019, 11:00:31 pm
+Code: 0
+File: D:\soft\openserver\OSPanel\domains\pony-world.eq\site\system\engine\routeparser.php
+Line: 18
+Message: Getting string isn't url
+Trace: 
+#0 D:\soft\openserver\OSPanel\domains\pony-world.eq\site\system\startup.php(9): RouteParser->__construct('gjghkghu/i//f.i...')
+#1 D:\soft\openserver\OSPanel\domains\pony-world.eq\index.php(10): require_once('D:\\soft\\openser...')
+#2 {main}
+
+
+Objection
+Date: 18 Dec, 2019, 11:00:31 pm
+Code: 0
+File: D:\soft\openserver\OSPanel\domains\pony-world.eq\site\system\engine\routeparser.php
+Line: 18
+Message: Getting string isn't url
+Trace: 
+#0 D:\soft\openserver\OSPanel\domains\pony-world.eq\site\system\startup.php(9): RouteParser->__construct('gjghkghu/i//f.i...')
+#1 D:\soft\openserver\OSPanel\domains\pony-world.eq\index.php(10): require_once('D:\\soft\\openser...')
+#2 {main}
+
+
+Objection
+Date: 18 Dec, 2019, 11:11:41 pm
+Code: 0
+File: D:\soft\openserver\OSPanel\domains\pony-world.eq\site\system\engine\routeparser.php
+Line: 18
+Message: Getting string isn't url
+Trace: 
+#0 D:\soft\openserver\OSPanel\domains\pony-world.eq\site\system\startup.php(9): RouteParser->__construct('gjghkghu/i//f.i...')
+#1 D:\soft\openserver\OSPanel\domains\pony-world.eq\index.php(10): require_once('D:\\soft\\openser...')
+#2 {main}
+
+
+Objection
+Date: 18 Dec, 2019, 11:11:41 pm
+Code: 0
+File: D:\soft\openserver\OSPanel\domains\pony-world.eq\site\system\engine\routeparser.php
+Line: 18
+Message: Getting string isn't url
+Trace: 
+#0 D:\soft\openserver\OSPanel\domains\pony-world.eq\site\system\startup.php(9): RouteParser->__construct('gjghkghu/i//f.i...')
+#1 D:\soft\openserver\OSPanel\domains\pony-world.eq\index.php(10): require_once('D:\\soft\\openser...')
+#2 {main}
+
+
